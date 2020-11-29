@@ -10,8 +10,8 @@ Player 2, enter your col coordinates for 0 < j <= 2
 2
 Tic Tac toe board status: 
 
-===== 
-O _ O 
-_ O _ 
-O _ x 
-===== 
+
+- O _ O 
+- _ O _ 
+- O _ x 
+- ===== 
