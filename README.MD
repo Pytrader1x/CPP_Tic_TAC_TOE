@@ -3,4 +3,4 @@
 
 - Try it out
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Pytrader1x/CPP_Tic_TAC_TOE/blob/master/C%2B%2B_TTT.png)
